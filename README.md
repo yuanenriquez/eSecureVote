@@ -1,5 +1,18 @@
 # eSecureVote <br>
 
+## Repository Note
+
+This repository is my personal portfolio-preserved fork of a collaborative academic project.
+
+It is maintained as a reference to preserve the project's source code and development history. I am not claiming sole ownership or authorship of the complete application.
+
+My individual contributions can be reviewed through my author-filtered Git commit history.
+
+Original repository: [christinedln/eSecureVote](https://github.com/christinedln/eSecureVote)
+
+My contributions: [Commits authored by yuanenriquez](https://github.com/yuanenriquez/eSecureVote/commits/main/?author=yuanenriquez)
+
+
 **System Name and Purpose** <br>
 The eSecureVote is an online platform that aims to make the voting process more efficient, secure, and transparent.  It allows eligible voters to register, authenticate their identity, and cast their votes digitally while preventing multiple voting attempts. The system securely stores and tallies votes, eliminating manual counting errors and ensuring accurate results.<br>
 With strong security features, the system protects against fraud by means of encryption and authentication processes. Once voting is over, results are computed instantly and securely announced. Through the digitalization of the election process, this system increases reliability, reduces human intervention, and ensures a fair and reliable electoral system.<br>
